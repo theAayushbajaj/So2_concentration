@@ -1,0 +1,3 @@
+[submodule "pyESN"]
+	path = pyESN
+	url = https://github.com/cknd/pyESN.git
